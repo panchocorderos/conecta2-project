@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/panchocorderos/conecta2-project">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Conecta2</h3>
