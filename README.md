@@ -11,14 +11,14 @@
   <p align="center">
     Tu plataforma virtual para poder "conectar" con tus seres queridos &#128107;&#128108;&#128109;
     <br />
-    <a href="https://github.com/panchocorderos/conecta2-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/panchocorderos/conecta2-project"><strong>Explorar documentos</strong></a>
     <br />
     <br />
-    <a href="https://github.com/panchocorderos/conecta2-project">View Demo</a>
+    <a href="https://github.com/panchocorderos/conecta2-project">Ver Demo</a>
     ·
-    <a href="https://github.com/panchocorderos/conecta2-project/issues">Report Bug</a>
+    <a href="https://github.com/panchocorderos/conecta2-project/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/panchocorderos/conecta2-project/issues">Request Feature</a>
+    <a href="https://github.com/panchocorderos/conecta2-project/issues">Recomendar funcionalidad</a>
   </p>
 </p>
 
@@ -26,13 +26,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+        <a href="#built-with">Built With</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -41,24 +38,13 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
