@@ -1,4 +1,3 @@
-# conecta2-project
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
