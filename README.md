@@ -5,10 +5,10 @@
     <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Conecta2</h3>
+  <h3 align="center">Colunga</h3>
 
   <p align="center">
-    Tu plataforma virtual para poder "conectar" con tus seres queridos &#128107;&#128108;&#128109;
+    Pagina Web para Colunga &#128107;&#128108;&#128109;
     <br />
     <a href="https://github.com/panchocorderos/conecta2-project"><strong>Explorar documentos</strong></a>
     <br />
