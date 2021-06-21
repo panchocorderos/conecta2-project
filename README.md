@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/panchocorderos/conecta2-project">
-    <img src="image/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Colunga</h3>
